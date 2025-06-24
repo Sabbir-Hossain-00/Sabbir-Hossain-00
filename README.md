@@ -67,19 +67,19 @@ Here are some of my top projects:
 
 🎯 **HobMeet** — Hobby-Based Social Platform  
 Connect people with similar interests using real-time chat, group events, and personalized feeds. Built with MERN stack.  
-🔗 [Live](https://hobmeet-00.web.app/) | [GitHub Repo](https://github.com/Sabbir-Hossain-00/hobmeet)
+🔗 [Live](https://hobmeet-00.web.app/) | [GitHub Repo](https://github.com/Sabbir-Hossain-00/HobMeet-Client)
 
 ---
 
 🎯 **Eventra** — Event Management Web App  
 Manage, host, and book events seamlessly with an intuitive UI. Built using React, Tailwind, Firebase Auth, and Express.  
-🔗 [Live](https://eventra-00.web.app/) | [GitHub Repo](https://github.com/Sabbir-Hossain-00/eventra)
+🔗 [Live](https://eventra-00.web.app/) | [GitHub Repo](https://github.com/Sabbir-Hossain-00/Eventra-Client)
 
 ---
 
 🎯 **JobNest** — Job Listing & Apply Portal  
 A platform for job seekers and recruiters with real-time application tracking. Built with React, Node.js, and MongoDB.  
-🔗 [Live](https://jobnest.surge.sh/) | [GitHub Repo](https://github.com/Sabbir-Hossain-00/jobnest)
+🔗 [Live](https://jobnest.surge.sh/) | [GitHub Repo](https://github.com/Sabbir-Hossain-00/JobNest)
 
 
 ## 📊 GitHub Stats
