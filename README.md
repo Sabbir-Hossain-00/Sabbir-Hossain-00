@@ -18,9 +18,6 @@
   <a href="https://www.linkedin.com/in/sabbir-hossain-0595b1301/" title="Follow Raymo111 on LinkedIn">
     <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/sabbir-hossain-0595b1301/" title="Follow Raymo111 on LinkedIn">
-    <img src="https://i.ibb.co/VyB33x4/image.png" height="40em" alt="LinkedIn" />
-  </a>
 </p>
 
 
