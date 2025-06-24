@@ -2,12 +2,33 @@
   <img src="https://i.ibb.co/h6brMZj/Black-and-White-Modern-Business-Linked-In-Banner-1-1.png" alt="Sabbir Hossain Banner" style="width:100%; height:auto;" />
 </p>
 
+<h1 align="center" id="macropower-title"> Hello there! I'm Sabbir Hossain</h1>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;6+%20month%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
+
+
 # 💫 About Me:
 Web developer focused on building modern and responsive applications. Passionate about clean code and user-friendly design.  
 💡 Proficient in HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB  
 🛠️ Developed 12+ projects, including full-stack applications like HobMeet, Eventra, JobNest, and Parco  
 📚 Completed 12 structured web development assignments under Programming Hero  
 🚀 Committed to writing clean, maintainable code and continuously learning new technologies
+
+### Portfolio
+
+> *pending...*
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jrsabbir00) 
