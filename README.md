@@ -48,10 +48,12 @@ CONST SABBIR = {
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 
-# 💻 Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,figma" />
+# 🛠️ What I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,figma" alt="Tech Stack Icons" />
 </p>
+
 
 ## 📊 GitHub Stats
 
