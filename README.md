@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-Passionate and dedicated Web Developer with 1.5+ years of practical experience in building modern, responsive web applications.  
+Web developer focused on building modern and responsive applications. Passionate about clean code and user-friendly design.  
 💡 Proficient in HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB  
 🛠️ Developed 12+ projects, including full-stack applications like HobMeet, Eventra, JobNest, and Parco  
 📚 Completed 12 structured web development assignments under Programming Hero  
