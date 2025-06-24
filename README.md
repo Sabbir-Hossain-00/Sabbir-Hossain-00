@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/h6brMZj/Black-and-White-Modern-Business-Linked-In-Banner-1-1.png" alt="Sabbir Hossain Banner" style="width:100%; height:auto;" />
+  <img src="https://i.ibb.co/LDqZ7QnG/Black-and-White-Modern-Business-Linked-In-Banner-4.png" alt="Sabbir Hossain Banner" style="width:100%; height:auto;" />
 </p>
 
 # 💫 About Me:
