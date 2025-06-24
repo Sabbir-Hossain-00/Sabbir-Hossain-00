@@ -48,20 +48,20 @@ CONST SABBIR = {
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 
-# 🛠️ What I Work With
+## 🛠️ What I Work With
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,figma" alt="Tech Stack Icons" />
 </p>
 
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Hossain-00&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sabbir-Hossain-00&theme=neon&hide_border=false" alt="GitHub Streak" />
 </p>
 
