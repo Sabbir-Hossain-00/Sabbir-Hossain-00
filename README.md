@@ -13,31 +13,40 @@
 
 <br/>
 
+
 <p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+  <a href="https://www.linkedin.com/in/sabbir-hossain-0595b1301/" title="Follow Raymo111 on LinkedIn">
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn" />
+  </a>
 </p>
 
 
-# 💫 About Me:
-Web developer focused on building modern and responsive applications. Passionate about clean code and user-friendly design.  
-💡 Proficient in HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB  
-🛠️ Developed 12+ projects, including full-stack applications like HobMeet, Eventra, JobNest, and Parco  
-📚 Completed 12 structured web development assignments under Programming Hero  
-🚀 Committed to writing clean, maintainable code and continuously learning new technologies
+
+
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```ruby
+CONST SABBIR = {
+  pronouns: "He" | "him",
+  backend: ["Expressjs", "Nodejs"],
+  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
+  database: ["MongoDb"],
+  "cloud-server": ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "I am doing All-In-One Toolbox for Developers. It's Muerta Toolbox."
+}
+```
 
 ### Portfolio
 
 > *pending...*
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jrsabbir00) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dhali_sabbir_hossain/?hl=en) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-0595b1301/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/ms7398037/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ms7398037) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sabbir3419) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ms7398037@gmail.com) 
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -62,15 +71,26 @@ Web developer focused on building modern and responsive applications. Passionate
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sabbir-Hossain-00&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sabbir-Hossain-00&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Hossain-00&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sabbir-Hossain-00&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Hossain-00&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sabbir-Hossain-00&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sabbir-Hossain-00&theme=neon&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><hr></p>
+
+<p align="center"><strong>Code Cycle</strong></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!" />
+</p>
+
+
