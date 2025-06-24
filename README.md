@@ -50,18 +50,18 @@ CONST SABBIR = {
 
 # 🛠️ What I Work With
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,figma" alt="Tech Stack Icons" />
 </p>
 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Hossain-00&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sabbir-Hossain-00&theme=neon&hide_border=false" alt="GitHub Streak" />
 </p>
 
