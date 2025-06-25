@@ -52,12 +52,22 @@ CONST SABBIR = {
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!" />
 </p>
+<br/>
+<br/>
+
 
 ## 🛠️ What I Work With
 
+<br/>
+<br/>
+<br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,figma" alt="Tech Stack Icons" />
 </p>
+<br/>
+<br/>
+<br/>
+
 
 ### 🔍 Project Highlights
 
@@ -81,8 +91,13 @@ Manage, host, and book events seamlessly with an intuitive UI. Built using React
 A platform for job seekers and recruiters with real-time application tracking. Built with React, Node.js, and MongoDB.  
 🔗 [Live](https://jobnest.surge.sh/) | [GitHub Repo](https://github.com/Sabbir-Hossain-00/JobNest)
 
+<br/>
+<br/>
 
 ## 📊 GitHub Stats
+
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Hossain-00&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
@@ -91,6 +106,9 @@ A platform for job seekers and recruiters with real-time application tracking. B
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sabbir-Hossain-00&theme=neon&hide_border=false" alt="GitHub Streak" />
 </p>
+<br/>
+<br/>
+
 
 <p align="center"><hr></p>
 
